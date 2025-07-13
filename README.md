@@ -6,7 +6,7 @@ This repo contains a naive PyTorch implementation of the GPT model.
 ```
 ├──bigram.py                                --> bigram language model
 ├──gpt.py                                   --> transformer decoder-only model
-├──input.txt                                --> shakespeare training data
+└──input.txt                                --> shakespeare training data
 ```
 
 ## Transformer Architecture
