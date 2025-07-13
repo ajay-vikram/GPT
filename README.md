@@ -1,6 +1,6 @@
 # Generative Pretrained Transformer (GPT)
 
-This repo contains a naive PyTorch implementation of the GPT model.
+This repo contains a naive PyTorch implementation of the GPT model. It is trained on the Tiny-Shakespeare Dataset.
 
 ## File Structure
 ```
